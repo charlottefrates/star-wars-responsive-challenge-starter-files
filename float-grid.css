@@ -51,15 +51,15 @@ body{
   clear: both;
 }
 
-.col-1, .col-2, .col-12{
-  width: 100%
+.col-3, .col-4, .col-6, .col-12{
+  width: 100%;
   float: left;
   padding-left: 1.04166666%;
   padding-right: 1.04166666%;
 }
 
 /* Mobile defaults */
-.col-1, .col-2, .col-12 {
+..col-3, .col-4, .col-6, .col-12{
   width: 100%;
 }
 
