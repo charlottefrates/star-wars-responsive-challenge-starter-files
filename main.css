@@ -1,0 +1,56 @@
+main {
+  padding-top: 10px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+header{
+  background-color: gold;
+  padding-bottom: 40px;
+
+}
+
+
+.box {
+  height: 100%;
+  text-align: left;
+  padding-bottom: 10px;
+  margin:8px;
+}
+
+.text{
+  padding-left: 10px;
+}
+
+
+.ray {
+  border:1px solid grey;
+  margin:8px;
+}
+
+.finn {
+  border:1px solid grey;
+  margin:8px;
+}
+
+.kylo{
+  border:1px solid grey;
+  margin:8px;
+}
+
+.poe{
+  border:1px solid grey;
+  margin:8px;
+}
+
+.chewbacca{
+  border:1px solid grey;
+  margin:8px;
+}
+
+.yoda{
+  border:1px solid grey;
+  margin:8px;
+}
