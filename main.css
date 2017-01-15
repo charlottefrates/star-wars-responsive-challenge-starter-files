@@ -1,56 +1,40 @@
-main {
-  padding-top: 10px;
-}
-
-main .row {
-  margin-bottom: 20px;
-}
-
-header{
+header {
   background-color: gold;
-  padding-bottom: 40px;
-
+  margin-bottom: 40px;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
 
-.box {
-  height: 100%;
-  text-align: left;
-  padding-bottom: 10px;
-  margin:8px;
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 0.5em;
+}
+
+.card {
+  border: 1px solid grey;
+  padding-bottom: 20px
+}
+
+.images {
+  width: 100%;
 }
 
 .text{
-  padding-left: 10px;
+  padding: 10px;
 }
 
-
-.ray {
-  border:1px solid grey;
-  margin:8px;
+.text h3 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
-.finn {
-  border:1px solid grey;
-  margin:8px;
-}
-
-.kylo{
-  border:1px solid grey;
-  margin:8px;
-}
-
-.poe{
-  border:1px solid grey;
-  margin:8px;
-}
-
-.chewbacca{
-  border:1px solid grey;
-  margin:8px;
-}
-
-.yoda{
-  border:1px solid grey;
-  margin:8px;
+.text p {
+  margin: 0.5em 0;
 }
